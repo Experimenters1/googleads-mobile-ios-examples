@@ -10,7 +10,7 @@
 #
 ## Banner Ads
 
-[Banner Ads](https://developers.google.com/admob/ios/banner) <br><br>
+[**Banner Ads**](https://developers.google.com/admob/ios/banner) <br><br>
 
 #
 ```swift
