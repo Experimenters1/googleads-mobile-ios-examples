@@ -88,6 +88,13 @@ class Video_Source: UIViewController,GADBannerViewDelegate   {
 
 ```
 #
+
+## Interstitial ads
+
+[**Interstitial ads**](https://developers.google.com/admob/ios/interstitial) <br><br>
+
+#
+
 ```swift
 import GoogleMobileAds
 
