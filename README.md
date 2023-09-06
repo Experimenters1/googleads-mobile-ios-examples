@@ -6,8 +6,13 @@
 
 [Google Mobile Ads SDK for iOS](https://github.com/googleads/googleads-mobile-ios-examples) <br><br>
 
-#
 
+#
+## Banner Ads
+
+[Banner Ads](https://developers.google.com/admob/ios/banner) <br><br>
+
+#
 ```swift
 import GoogleMobileAds
 
@@ -82,3 +87,4 @@ class Video_Source: UIViewController,GADBannerViewDelegate   {
 }
 
 ```
+#
