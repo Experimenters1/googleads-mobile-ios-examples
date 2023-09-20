@@ -289,7 +289,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 </plist>
 ```
 
+
 #
+# Banner Ads
 ```swift
 import GoogleMobileAds
 
